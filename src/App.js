@@ -25,8 +25,8 @@ function App() {
           luminosity: "light",
         }),
         defaultPosition: {
-          x: 500,
-          y: -500,
+          x: 100,
+          y: -100,
         },
       };
       setItems((items) => [...items, newItem]);
