@@ -26,7 +26,7 @@ function App() {
         }),
         defaultPosition: {
           x: 100,
-          y: -100,
+          y: 100,
         },
       };
       setItems((items) => [...items, newItem]);
